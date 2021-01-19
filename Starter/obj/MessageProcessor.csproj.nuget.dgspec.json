@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\20204C\\lab\\AZ-204T00 - Lab 11-13\\Starter\\MessageProcessor.csproj": {}
+  },
+  "projects": {
+    "D:\\20204C\\lab\\AZ-204T00 - Lab 11-13\\Starter\\MessageProcessor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\20204C\\lab\\AZ-204T00 - Lab 11-13\\Starter\\MessageProcessor.csproj",
+        "projectName": "MessageProcessor",
+        "projectPath": "D:\\20204C\\lab\\AZ-204T00 - Lab 11-13\\Starter\\MessageProcessor.csproj",
+        "packagesPath": "C:\\Users\\mq288\\.nuget\\packages\\",
+        "outputPath": "D:\\20204C\\lab\\AZ-204T00 - Lab 11-13\\Starter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mq288\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Azure.Storage.Queues": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

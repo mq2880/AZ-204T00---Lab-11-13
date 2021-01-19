@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "uqnsh1MfKYOrN8UvUqbH9BhBdT7IXNbw3TsApc7IQs6450l37Z759ejUeEOLs28zPY73IosobRsJ6xe+IWaOgQ==",
+  "success": true,
+  "projectFilePath": "D:\\20204C\\lab\\AZ-204T00 - Lab 11-13\\Starter\\MessageProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mq288\\.nuget\\packages\\azure.core\\1.0.0\\azure.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\azure.storage.common\\12.0.0\\azure.storage.common.12.0.0.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\azure.storage.queues\\12.0.0\\azure.storage.queues.12.0.0.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mq288\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
